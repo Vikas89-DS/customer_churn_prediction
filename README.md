@@ -1,4 +1,3 @@
-# customer_churn_prediction
 # Customer Churn Prediction - Telco Dataset
 
 ## 📌 Project Overview
@@ -74,5 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-📧 **Contact**: Your Name | your.email@example.com | [GitHub](https://github.com/your-username)
-
+📧 vikas.vermaa89@gmail.com
